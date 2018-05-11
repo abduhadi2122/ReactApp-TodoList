@@ -1,0 +1,24 @@
+body
+{
+    padding: 50px;
+    background-color: #dadadad8;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+h2
+{
+    text-align: center;
+    color: #333;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+#container
+{
+    margin: auto;
+    width:35%;
+    display: flex;
+    justify-content: flex;
+    align-content: center;
+    padding:30px;
+}
